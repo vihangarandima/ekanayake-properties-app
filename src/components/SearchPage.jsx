@@ -276,7 +276,7 @@ function SearchPage() {
                     draggable
                     onDragStart={(e) => handleDragStart(e, house.id)}
                     sx={{
-                      bgcolor: "#0f172a",
+                      bgcolor: "#19233bff",
                       borderRadius: 6,
                       transition: "0.3s",
                       cursor: "grab",
@@ -293,7 +293,11 @@ function SearchPage() {
                       image={`/${house.images[0]}`}
                     />
                     <CardContent sx={{ p: 3 }}>
-                      <Typography variant="h6" fontWeight="bold">
+                      <Typography
+                        variant="h6"
+                        fontWeight="bold"
+                        sx={{ color: "white" }}
+                      >
                         £{house.price.toLocaleString()}
                       </Typography>
                       <Typography
