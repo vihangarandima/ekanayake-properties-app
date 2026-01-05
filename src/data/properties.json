@@ -1,0 +1,133 @@
+{
+  "properties": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 750000,
+      "tenure": "Freehold",
+      "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station...",
+      "longDescription": "This charming family home offers spacious living areas and is ideally located for commuters. It features a fitted kitchen/breakfast room, a conservatory, and a utility room. The first floor hosts three bedrooms and a family bathroom. The property is double glazed with gas central heating throughout.",
+      "location": "Petts Wood Road, Petts Wood, Orpington",
+      "postcode": "BR5",
+      "images": [
+        "images/prop1pic1.jpg", "images/prop1pic2.jpg", "images/prop1pic3.jpg", 
+        "images/prop1pic4.jpg", "images/prop1pic5.jpg", "images/prop1pic6.jpg"
+      ],
+      "floorplan": "images/prop1_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Petts+Wood+Road+BR5",
+      "added": { "month": "October", "day": 12, "year": 2022 }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat...",
+      "longDescription": "A modern garden flat boasting an open-plan living room and kitchen with integrated appliances. Bi-folding doors lead to a private courtyard. Features include solid wooden floors, walnut doors, and a separate wet room. Still under a 10-year building guarantee.",
+      "location": "Crofton Road, Orpington",
+      "postcode": "BR6",
+      "images": [
+        "images/prop2pic1.jpg", "images/prop2pic2.jpg", "images/prop2pic3.jpg", 
+        "images/prop2pic4.jpg", "images/prop2pic5.jpg", "images/prop2pic6.jpg"
+      ],
+      "floorplan": "images/prop2_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Crofton+Road+BR6",
+      "added": { "month": "September", "day": 14, "year": 2022 }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 5,
+      "price": 1250000,
+      "tenure": "Freehold",
+      "description": "Stunning 5-bedroom detached luxury villa in the heart of NW1...",
+      "longDescription": "A substantial detached residence featuring five en-suite bedrooms, a private cinema room, and a landscaped garden. The interior utilizes Italian marble and smart home automation throughout for a truly luxury experience.",
+      "location": "Gloucester Place, Marylebone",
+      "postcode": "NW1",
+      "images": [
+        "images/prop3pic1.jpg", "images/prop3pic2.jpg", "images/prop3pic3.jpg", 
+        "images/prop3pic4.jpg", "images/prop3pic5.jpg", "images/prop3pic6.jpg", 
+        "images/prop3pic7.jpg", "images/prop3pic8.jpg"
+      ],
+      "floorplan": "images/prop3_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Gloucester+Place+NW1",
+      "added": { "month": "January", "day": 5, "year": 2024 }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 1,
+      "price": 275000,
+      "tenure": "Leasehold",
+      "description": "Modern 1-bedroom apartment perfect for first-time buyers...",
+      "longDescription": "Chic third-floor apartment with floor-to-ceiling windows. Located in a vibrant area with excellent transport links to London Victoria via Bromley South station.",
+      "location": "High Street, Bromley",
+      "postcode": "BR1",
+      "images": [
+        "images/prop4pic1.jpg", "images/prop4pic2.jpg", "images/prop4pic3.jpg", 
+        "images/prop4pic4.jpg", "images/prop4pic5.jpg", "images/prop4pic6.jpg"
+      ],
+      "floorplan": "images/prop4_floorplan.jpg",
+      "map": "https://maps.google.com/?q=High+Street+BR1",
+      "added": { "month": "November", "day": 20, "year": 2023 }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 850000,
+      "tenure": "Freehold",
+      "description": "Beautiful 4-bedroom Edwardian terrace with original features...",
+      "longDescription": "Combines period charm with modern convenience. Features original fireplaces, high ceilings, and a large farmhouse kitchen. Situated in a prestigious school catchment area.",
+      "location": "Heath Street, Hampstead",
+      "postcode": "NW3",
+      "images": [
+        "images/prop5pic1.jpg", "images/prop5pic2.jpg", "images/prop5pic3.jpg", 
+        "images/prop5pic4.jpg", "images/prop5pic5.jpg", "images/prop5pic6.jpg",
+        "images/prop5pic7.jpg"
+      ],
+      "floorplan": "images/prop5_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Heath+Street+NW3",
+      "added": { "month": "December", "day": 12, "year": 2023 }
+    },
+    {
+      "id": "prop6",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 550000,
+      "tenure": "Leasehold",
+      "description": "Spacious 3-bedroom penthouse with panoramic city views...",
+      "longDescription": "Exquisite penthouse with an expansive roof terrace. Boasts underfloor heating, open-plan living, and 24-hour concierge service in a gated development.",
+      "location": "Skyline Plaza, Orpington",
+      "postcode": "BR6",
+      "images": [
+        "images/prop6pic1.jpg", "images/prop6pic2.jpg", "images/prop6pic3.jpg", 
+        "images/prop6pic4.jpg", "images/prop6pic5.jpg", "images/prop6pic6.jpg"
+      ],
+      "floorplan": "images/prop6_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Skyline+Plaza+BR6",
+      "added": { "month": "May", "day": 10, "year": 2024 }
+    },
+    {
+      "id": "prop7",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 425000,
+      "tenure": "Freehold",
+      "description": "Charming 2-bedroom cottage in a quiet residential cul-de-sac...",
+      "longDescription": "Quaint cottage offering two cozy bedrooms and a refurbished kitchen. Tucked away in a peaceful area while remaining close to the heart of Camden Town.",
+      "location": "Willow Lane, Kentish Town",
+      "postcode": "NW5",
+      "images": [
+        "images/prop7pic1.jpg", "images/prop7pic2.jpg", "images/prop7pic3.jpg", 
+        "images/prop7pic4.jpg", "images/prop7pic5.jpg", "images/prop7pic6.jpg",
+        "images/prop7pic7.jpg", "images/prop7pic8.jpg"
+      ],
+      "floorplan": "images/prop7_floorplan.jpg",
+      "map": "https://maps.google.com/?q=Willow+Lane+NW5",
+      "added": { "month": "February", "day": 28, "year": 2024 }
+    }
+  ]
+}
